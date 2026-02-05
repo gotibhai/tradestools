@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/tradestools',
+  assetPrefix: '/tradestools/',
   images: {
     unoptimized: true,
   },
